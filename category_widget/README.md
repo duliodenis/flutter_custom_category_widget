@@ -24,7 +24,9 @@
 ## Screenshots
 
 ### Start
-<img src='../../screenshots/02_category_widget.png' width='350'>
+![](../art/screenshots/category_widget.png?raw=true)
 
 ### Solution
-<img src='../../screenshots/02_category_widget_2.png' width='350'><img src='../../screenshots/02_category_widget_3.gif' width='350'>
+<img src='../art/screenshots/category_widget_2.png' width='350'>
+
+<img src='../art/screenshots/category_widget_3.gif' width='350'>
